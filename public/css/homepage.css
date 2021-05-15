@@ -52,3 +52,8 @@ padding-top: 200px;
 .tripBtn {
   background-color:rgb(53, 53, 212) ;
 }
+.containerBtn {
+  display: flex;
+  justify-content: center;
+
+}

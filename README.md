@@ -40,7 +40,7 @@ Feature a blog for user to share their experince with traveling to Tokyo.
 
 ## Repository
 
-- [Project Repo](https://github.com/Moesaidi76/NexCity
+- [Project Repo](https://github.com/Luis0624/NexCity
 
 ## Test
 

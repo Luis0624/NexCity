@@ -204,4 +204,4 @@ function saveFlights(ID) {
     res.json();
 
   console.log(carrier,price, budgetLeft)
-}
+})}
